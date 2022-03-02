@@ -8,13 +8,13 @@
         "Category": "Date and Time",
         "Description": "A simple stopwatch",
         "Icon": "battery",
-        "Id": "com.github.Kibibibit.plasmoid-stopwatch",
+        "Id": "com.github.kibibibit.plasmoid-stopwatch",
         "Name": "Stopwatch",
         "ServiceTypes": [
             "Plasma/Applet"
         ],
         "Version": "1",
-        "Website": "https://github.com/Zren/plasmoid-helloworld"
+        "Website": "https://github.com:Kibibibit/plasmoid-stopwatch.git"
     },
     "X-Plasma-API": "declarativeappletscript",
     "X-Plasma-MainScript": "ui/main.qml"
